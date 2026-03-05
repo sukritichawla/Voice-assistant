@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.aac
+*.opus
+*.zip
+dataset/
+models/X.npy
+models/y.npy
+temp*
