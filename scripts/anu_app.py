@@ -1,5 +1,6 @@
 import tkinter as tk
 import threading
+import pyautogui
 import sounddevice as sd
 import numpy as np
 import librosa
@@ -9,7 +10,7 @@ import os
 import time
 import speech_recognition as sr
 import webbrowser
-
+import pyautogui
 # ---------------- DEVICE ----------------
 sd.default.device = 1
 
@@ -47,6 +48,9 @@ def preprocess(audio):
 
     return mfcc[np.newaxis, ..., np.newaxis]
 
+def is_silence(audio, threshold=0.01):
+    energy = np.mean(np.abs(audio))
+    return energy < threshold
 
 def record_audio(duration):
     audio = sd.rec(int(duration * MIC_SR),
@@ -103,25 +107,66 @@ def detect_object_from_audio(audio):
 
     return None
 
+
 def execute_command(action, obj=None):
 
+    # -------- OPEN --------
     if action == "open" and obj == "browser":
-        webbrowser.open("https://google.com")
+        os.system("start chrome")
 
     elif action == "open" and obj == "calculator":
         os.system("calc")
 
+
+    # -------- CLOSE --------
     elif action == "close" and obj == "browser":
         os.system("taskkill /im chrome.exe /f")
 
+    elif action == "close" and obj == "calculator":
+        os.system("taskkill /im CalculatorApp.exe /f >nul 2>&1")
+
+
+    # -------- SCREENSHOT --------
     elif action == "screenshot":
         os.system("snippingtool")
 
-    elif action == "mute":
-        print("Muted")
 
+    # -------- SYSTEM --------
     elif action == "sleep":
-        print("Sleeping mode")
+        print("💤 Entering sleep mode")
+        os.system("rundll32.exe powrprof.dll,SetSuspendState 0,1,0")
+
+    elif action == "help":
+        print("🆘 Available commands: open, close, play, pause, mute, etc.")
+
+
+    # -------- AUDIO CONTROL --------
+    elif action == "mute":
+        pyautogui.press("volumemute")
+
+    elif action == "unmute":
+        pyautogui.press("volumemute")
+
+
+    # -------- MEDIA CONTROL --------
+    
+
+    elif action == "play":
+        pyautogui.press("playpause")
+
+    elif action == "pause":
+        pyautogui.press("playpause")
+
+    elif action == "next":
+        pyautogui.press("nexttrack")
+
+    elif action == "previous":
+        pyautogui.press("prevtrack")
+
+
+    # -------- DEFAULT --------
+    else:
+        print("❌ Command not recognized properly")
 # ================= UI =================
 root = tk.Tk()
 root.title("Anu Assistant")
