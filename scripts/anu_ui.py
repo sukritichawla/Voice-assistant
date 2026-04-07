@@ -82,6 +82,7 @@ def execute_command(command):
     elif command == "close browser":
         os.system("taskkill /f /im chrome.exe")
 
+
     # ===== CALCULATOR =====
     elif command == "open calculator":
         os.system("calc")
@@ -124,6 +125,42 @@ def execute_command(command):
 
         except Exception as e:
             result_label.config(text=f"Error: {e}")
+
+    elif "next" in command:
+        import pyautogui
+        pyautogui.press("nexttrack")
+        result_label.config(text="⏭️ Next track")
+    elif "previous" in command:
+        import pyautogui
+        pyautogui.press("prevtrack")
+        result_label.config(text="⏮️ Previous track")
+    elif "help" in command:
+        help_text = """
+Commands:
+- open browser
+- close browser
+- open calculator
+- close calculator
+- play / pause
+- mute / unmute
+- next / previous
+- take screenshot
+- sleep
+"""
+        print(help_text)
+        result_label.config(text="📜 Help:" \
+        """
+Commands:
+- open browser
+- close browser
+- open calculator
+- close calculator
+- play / pause
+- mute / unmute
+- next / previous
+- take screenshot
+- sleep
+""")
         
     else:
         print("⚠️ Command not mapped:", command)
@@ -170,7 +207,7 @@ def listen_loop():
             continue
 
         # 🚨 VERY STRICT wake detection
-        if label == WAKE_WORD and conf > 0.7:
+        if label == WAKE_WORD and conf > 0.6:
             last_trigger_time = current_time
 
             status_label.config(text="✅ Wake word detected!")
@@ -199,7 +236,7 @@ def listen_loop():
             os.remove(temp_file)
 
             # 🚨 Reject bad predictions
-            if cmd_label == WAKE_WORD or cmd_conf < 0.65:
+            if cmd_label == WAKE_WORD or cmd_conf < 0.55:
                 result_label.config(text="⚠️ No valid command")
             else:
                 result_label.config(
