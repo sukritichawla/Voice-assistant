@@ -1,0 +1,101 @@
+true_intent,predicted_intent,true_entity,predicted_entity,entity_required,action_success
+anu,anu,,,False,True
+close browser,close browser,browser,browser,True,True
+close calculator,close calculator,calculator,calculator,True,True
+help,pause,,,False,False
+mute,mute,,,False,True
+next,next,,,False,True
+open browser,open browser,browser,browser,True,True
+open calculator,open calculator,calculator,calculator,True,True
+pause,pause,,,False,True
+play,play,,,False,True
+previous,close calculator,,calculator,False,False
+screenshot,screenshot,,,False,True
+sleep,sleep,,,False,True
+unmute,unmute,,,False,True
+anu,anu,,,False,True
+close browser,close browser,browser,browser,True,True
+close calculator,close calculator,calculator,calculator,True,True
+help,help,,,False,False
+mute,mute,,,False,True
+next,next,,,False,True
+open browser,screenshot,browser,,True,False
+open calculator,open calculator,calculator,calculator,True,True
+pause,pause,,,False,True
+play,play,,,False,True
+previous,previous,,,False,True
+screenshot,screenshot,,,False,True
+sleep,sleep,,,False,True
+unmute,unmute,,,False,True
+anu,anu,,,False,True
+close browser,close browser,browser,browser,True,True
+close calculator,close calculator,calculator,calculator,True,True
+help,close browser,,browser,False,False
+mute,mute,,,False,True
+next,next,,,False,True
+open browser,open browser,browser,browser,True,True
+open calculator,unmute,calculator,,True,False
+pause,open calculator,,calculator,False,False
+play,play,,,False,True
+previous,previous,,,False,True
+screenshot,screenshot,,,False,True
+sleep,sleep,,,False,True
+unmute,unmute,,,False,True
+anu,sleep,,,False,False
+close browser,close browser,browser,calculator,True,False
+close calculator,anu,calculator,,True,False
+help,help,,,False,True
+mute,mute,,,False,True
+next,next,,,False,True
+open browser,open browser,browser,browser,True,True
+open calculator,open calculator,calculator,calculator,True,True
+pause,pause,,,False,True
+play,play,,,False,True
+previous,previous,,,False,True
+screenshot,screenshot,,,False,True
+sleep,sleep,,,False,True
+unmute,unmute,,,False,True
+anu,anu,,,False,True
+close browser,sleep,browser,,True,False
+close calculator,close calculator,calculator,calculator,True,True
+help,help,,,False,True
+mute,mute,,,False,True
+next,next,,,False,True
+open browser,open browser,browser,browser,True,True
+open calculator,open calculator,calculator,calculator,True,False
+pause,pause,,,False,True
+play,play,,,False,True
+previous,previous,,,False,True
+screenshot,screenshot,,,False,True
+sleep,sleep,,,False,False
+unmute,unmute,,,False,True
+anu,anu,,,False,True
+close browser,help,browser,,True,False
+close calculator,close calculator,calculator,browser,True,False
+help,help,,,False,True
+mute,anu,,,False,False
+next,next,,,False,True
+open browser,open browser,browser,browser,True,True
+open calculator,open calculator,calculator,calculator,True,False
+pause,pause,,,False,True
+play,play,,,False,True
+previous,previous,,,False,True
+screenshot,screenshot,,,False,True
+sleep,sleep,,,False,True
+unmute,unmute,,,False,True
+anu,anu,,,False,True
+close browser,pause,browser,,True,False
+close calculator,close calculator,calculator,calculator,True,True
+help,help,,,False,True
+mute,mute,,,False,True
+next,next,,,False,True
+open browser,open browser,browser,browser,True,True
+open calculator,open calculator,calculator,calculator,True,True
+pause,pause,,,False,True
+play,play,,,False,True
+previous,previous,,,False,True
+screenshot,screenshot,,,False,True
+sleep,mute,,,False,False
+unmute,unmute,,,False,True
+anu,anu,,,False,True
+close browser,close browser,browser,browser,True,True

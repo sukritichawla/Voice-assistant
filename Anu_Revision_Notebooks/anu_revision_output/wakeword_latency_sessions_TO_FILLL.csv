@@ -1,0 +1,7 @@
+session_id,network_condition,recording_hours,wakeword_trials,correct_detections,false_activations,missed_detections,avg_latency_ms
+DEMO01,quiet,0.25,20,18,0,2,465
+DEMO02,quiet,0.25,20,17,1,3,512
+DEMO03,moderate_noise,0.5,20,16,2,4,584
+DEMO04,moderate_noise,0.5,20,15,1,5,621
+DEMO05,noisy,0.5,20,13,3,7,710
+DEMO06,noisy,0.5,20,14,2,6,684
