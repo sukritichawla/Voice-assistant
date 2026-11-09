@@ -1,0 +1,2 @@
+Accuracy,Macro precision,Macro recall,Macro F1,Test original recordings,Final training epochs,Normalization mean,Normalization std
+0.5686274509803921,0.572773654916512,0.5694805194805195,0.5491780375780374,153,40,-10.976839065551758,78.21414184570312

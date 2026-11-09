@@ -1,0 +1,919 @@
+path,label,filename,speaker_id,original_file,is_augmented
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu13.wav,anu,anu13.wav,S13,anu/anu13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu13_noise.wav,anu,anu13_noise.wav,S13,anu/anu13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu13_pitch.wav,anu,anu13_pitch.wav,S13,anu/anu13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu13_shift.wav,anu,anu13_shift.wav,S13,anu/anu13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu13_stretch.wav,anu,anu13_stretch.wav,S13,anu/anu13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu13_volume.wav,anu,anu13_volume.wav,S13,anu/anu13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu14.wav,anu,anu14.wav,S14,anu/anu14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu14_noise.wav,anu,anu14_noise.wav,S14,anu/anu14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu14_pitch.wav,anu,anu14_pitch.wav,S14,anu/anu14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu14_shift.wav,anu,anu14_shift.wav,S14,anu/anu14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu14_stretch.wav,anu,anu14_stretch.wav,S14,anu/anu14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu14_volume.wav,anu,anu14_volume.wav,S14,anu/anu14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu18.wav,anu,anu18.wav,S18,anu/anu18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu18_noise.wav,anu,anu18_noise.wav,S18,anu/anu18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu18_pitch.wav,anu,anu18_pitch.wav,S18,anu/anu18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu18_shift.wav,anu,anu18_shift.wav,S18,anu/anu18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu18_stretch.wav,anu,anu18_stretch.wav,S18,anu/anu18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu18_volume.wav,anu,anu18_volume.wav,S18,anu/anu18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu20.wav,anu,anu20.wav,S20,anu/anu20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu20_noise.wav,anu,anu20_noise.wav,S20,anu/anu20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu20_pitch.wav,anu,anu20_pitch.wav,S20,anu/anu20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu20_shift.wav,anu,anu20_shift.wav,S20,anu/anu20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu20_stretch.wav,anu,anu20_stretch.wav,S20,anu/anu20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu20_volume.wav,anu,anu20_volume.wav,S20,anu/anu20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu33.wav,anu,anu33.wav,S33,anu/anu33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu33_noise.wav,anu,anu33_noise.wav,S33,anu/anu33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu33_pitch.wav,anu,anu33_pitch.wav,S33,anu/anu33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu33_shift.wav,anu,anu33_shift.wav,S33,anu/anu33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu33_stretch.wav,anu,anu33_stretch.wav,S33,anu/anu33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu33_volume.wav,anu,anu33_volume.wav,S33,anu/anu33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu4.wav,anu,anu4.wav,S04,anu/anu4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu42.wav,anu,anu42.wav,S42,anu/anu42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu42_noise.wav,anu,anu42_noise.wav,S42,anu/anu42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu42_pitch.wav,anu,anu42_pitch.wav,S42,anu/anu42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu42_shift.wav,anu,anu42_shift.wav,S42,anu/anu42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu42_stretch.wav,anu,anu42_stretch.wav,S42,anu/anu42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu42_volume.wav,anu,anu42_volume.wav,S42,anu/anu42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu44.wav,anu,anu44.wav,S44,anu/anu44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu44_noise.wav,anu,anu44_noise.wav,S44,anu/anu44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu44_pitch.wav,anu,anu44_pitch.wav,S44,anu/anu44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu44_shift.wav,anu,anu44_shift.wav,S44,anu/anu44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu44_stretch.wav,anu,anu44_stretch.wav,S44,anu/anu44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu44_volume.wav,anu,anu44_volume.wav,S44,anu/anu44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\Anu48.wav,anu,Anu48.wav,S48,anu/Anu48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\Anu48_noise.wav,anu,Anu48_noise.wav,S48,anu/Anu48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\Anu48_pitch.wav,anu,Anu48_pitch.wav,S48,anu/Anu48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\Anu48_shift.wav,anu,Anu48_shift.wav,S48,anu/Anu48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\Anu48_stretch.wav,anu,Anu48_stretch.wav,S48,anu/Anu48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\Anu48_volume.wav,anu,Anu48_volume.wav,S48,anu/Anu48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu4_noise.wav,anu,anu4_noise.wav,S04,anu/anu4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu4_pitch.wav,anu,anu4_pitch.wav,S04,anu/anu4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu4_shift.wav,anu,anu4_shift.wav,S04,anu/anu4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu4_stretch.wav,anu,anu4_stretch.wav,S04,anu/anu4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu4_volume.wav,anu,anu4_volume.wav,S04,anu/anu4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu52.wav,anu,anu52.wav,S52,anu/anu52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu52_noise.wav,anu,anu52_noise.wav,S52,anu/anu52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu52_pitch.wav,anu,anu52_pitch.wav,S52,anu/anu52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu52_shift.wav,anu,anu52_shift.wav,S52,anu/anu52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu52_stretch.wav,anu,anu52_stretch.wav,S52,anu/anu52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu52_volume.wav,anu,anu52_volume.wav,S52,anu/anu52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu6.wav,anu,anu6.wav,S06,anu/anu6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu6_noise.wav,anu,anu6_noise.wav,S06,anu/anu6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu6_pitch.wav,anu,anu6_pitch.wav,S06,anu/anu6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu6_shift.wav,anu,anu6_shift.wav,S06,anu/anu6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu6_stretch.wav,anu,anu6_stretch.wav,S06,anu/anu6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\anu\anu6_volume.wav,anu,anu6_volume.wav,S06,anu/anu6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 13.wav,close browser,close browser 13.wav,S13,close browser/close browser 13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 13_noise.wav,close browser,close browser 13_noise.wav,S13,close browser/close browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 13_pitch.wav,close browser,close browser 13_pitch.wav,S13,close browser/close browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 13_shift.wav,close browser,close browser 13_shift.wav,S13,close browser/close browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 13_stretch.wav,close browser,close browser 13_stretch.wav,S13,close browser/close browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 13_volume.wav,close browser,close browser 13_volume.wav,S13,close browser/close browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 14.wav,close browser,close browser 14.wav,S14,close browser/close browser 14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 14_noise.wav,close browser,close browser 14_noise.wav,S14,close browser/close browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 14_pitch.wav,close browser,close browser 14_pitch.wav,S14,close browser/close browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 14_shift.wav,close browser,close browser 14_shift.wav,S14,close browser/close browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 14_stretch.wav,close browser,close browser 14_stretch.wav,S14,close browser/close browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 14_volume.wav,close browser,close browser 14_volume.wav,S14,close browser/close browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 18.wav,close browser,close browser 18.wav,S18,close browser/close browser 18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 18_noise.wav,close browser,close browser 18_noise.wav,S18,close browser/close browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 18_pitch.wav,close browser,close browser 18_pitch.wav,S18,close browser/close browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 18_shift.wav,close browser,close browser 18_shift.wav,S18,close browser/close browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 18_stretch.wav,close browser,close browser 18_stretch.wav,S18,close browser/close browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 18_volume.wav,close browser,close browser 18_volume.wav,S18,close browser/close browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 20.wav,close browser,close browser 20.wav,S20,close browser/close browser 20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 20_noise.wav,close browser,close browser 20_noise.wav,S20,close browser/close browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 20_pitch.wav,close browser,close browser 20_pitch.wav,S20,close browser/close browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 20_shift.wav,close browser,close browser 20_shift.wav,S20,close browser/close browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 20_stretch.wav,close browser,close browser 20_stretch.wav,S20,close browser/close browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 20_volume.wav,close browser,close browser 20_volume.wav,S20,close browser/close browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 33.wav,close browser,close browser 33.wav,S33,close browser/close browser 33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 33_noise.wav,close browser,close browser 33_noise.wav,S33,close browser/close browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 33_pitch.wav,close browser,close browser 33_pitch.wav,S33,close browser/close browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 33_shift.wav,close browser,close browser 33_shift.wav,S33,close browser/close browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 33_stretch.wav,close browser,close browser 33_stretch.wav,S33,close browser/close browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 33_volume.wav,close browser,close browser 33_volume.wav,S33,close browser/close browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 4.wav,close browser,close browser 4.wav,S04,close browser/close browser 4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 42.wav,close browser,close browser 42.wav,S42,close browser/close browser 42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 42_noise.wav,close browser,close browser 42_noise.wav,S42,close browser/close browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 42_pitch.wav,close browser,close browser 42_pitch.wav,S42,close browser/close browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 42_shift.wav,close browser,close browser 42_shift.wav,S42,close browser/close browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 42_stretch.wav,close browser,close browser 42_stretch.wav,S42,close browser/close browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 42_volume.wav,close browser,close browser 42_volume.wav,S42,close browser/close browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 44.wav,close browser,close browser 44.wav,S44,close browser/close browser 44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 44_noise.wav,close browser,close browser 44_noise.wav,S44,close browser/close browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 44_pitch.wav,close browser,close browser 44_pitch.wav,S44,close browser/close browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 44_shift.wav,close browser,close browser 44_shift.wav,S44,close browser/close browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 44_stretch.wav,close browser,close browser 44_stretch.wav,S44,close browser/close browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 44_volume.wav,close browser,close browser 44_volume.wav,S44,close browser/close browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 4_noise.wav,close browser,close browser 4_noise.wav,S04,close browser/close browser 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 4_pitch.wav,close browser,close browser 4_pitch.wav,S04,close browser/close browser 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 4_shift.wav,close browser,close browser 4_shift.wav,S04,close browser/close browser 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 4_stretch.wav,close browser,close browser 4_stretch.wav,S04,close browser/close browser 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 4_volume.wav,close browser,close browser 4_volume.wav,S04,close browser/close browser 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 52.wav,close browser,close browser 52.wav,S52,close browser/close browser 52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 52_noise.wav,close browser,close browser 52_noise.wav,S52,close browser/close browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 52_pitch.wav,close browser,close browser 52_pitch.wav,S52,close browser/close browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 52_shift.wav,close browser,close browser 52_shift.wav,S52,close browser/close browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 52_stretch.wav,close browser,close browser 52_stretch.wav,S52,close browser/close browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 52_volume.wav,close browser,close browser 52_volume.wav,S52,close browser/close browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 6.wav,close browser,close browser 6.wav,S06,close browser/close browser 6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 6_noise.wav,close browser,close browser 6_noise.wav,S06,close browser/close browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 6_pitch.wav,close browser,close browser 6_pitch.wav,S06,close browser/close browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 6_shift.wav,close browser,close browser 6_shift.wav,S06,close browser/close browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 6_stretch.wav,close browser,close browser 6_stretch.wav,S06,close browser/close browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\close browser 6_volume.wav,close browser,close browser 6_volume.wav,S06,close browser/close browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\Close Browser48.wav,close browser,Close Browser48.wav,S48,close browser/Close Browser48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\Close Browser48_noise.wav,close browser,Close Browser48_noise.wav,S48,close browser/Close Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\Close Browser48_pitch.wav,close browser,Close Browser48_pitch.wav,S48,close browser/Close Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\Close Browser48_shift.wav,close browser,Close Browser48_shift.wav,S48,close browser/Close Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\Close Browser48_stretch.wav,close browser,Close Browser48_stretch.wav,S48,close browser/Close Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close browser\Close Browser48_volume.wav,close browser,Close Browser48_volume.wav,S48,close browser/Close Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 13.wav,close calculator,close calculator 13.wav,S13,close calculator/close calculator 13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 13_noise.wav,close calculator,close calculator 13_noise.wav,S13,close calculator/close calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 13_pitch.wav,close calculator,close calculator 13_pitch.wav,S13,close calculator/close calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 13_shift.wav,close calculator,close calculator 13_shift.wav,S13,close calculator/close calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 13_stretch.wav,close calculator,close calculator 13_stretch.wav,S13,close calculator/close calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 13_volume.wav,close calculator,close calculator 13_volume.wav,S13,close calculator/close calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 14.wav,close calculator,close calculator 14.wav,S14,close calculator/close calculator 14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 14_noise.wav,close calculator,close calculator 14_noise.wav,S14,close calculator/close calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 14_pitch.wav,close calculator,close calculator 14_pitch.wav,S14,close calculator/close calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 14_shift.wav,close calculator,close calculator 14_shift.wav,S14,close calculator/close calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 14_stretch.wav,close calculator,close calculator 14_stretch.wav,S14,close calculator/close calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 14_volume.wav,close calculator,close calculator 14_volume.wav,S14,close calculator/close calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 20.wav,close calculator,close calculator 20.wav,S20,close calculator/close calculator 20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 20_noise.wav,close calculator,close calculator 20_noise.wav,S20,close calculator/close calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 20_pitch.wav,close calculator,close calculator 20_pitch.wav,S20,close calculator/close calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 20_shift.wav,close calculator,close calculator 20_shift.wav,S20,close calculator/close calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 20_stretch.wav,close calculator,close calculator 20_stretch.wav,S20,close calculator/close calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 20_volume.wav,close calculator,close calculator 20_volume.wav,S20,close calculator/close calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 33.wav,close calculator,close calculator 33.wav,S33,close calculator/close calculator 33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 33_noise.wav,close calculator,close calculator 33_noise.wav,S33,close calculator/close calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 33_pitch.wav,close calculator,close calculator 33_pitch.wav,S33,close calculator/close calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 33_shift.wav,close calculator,close calculator 33_shift.wav,S33,close calculator/close calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 33_stretch.wav,close calculator,close calculator 33_stretch.wav,S33,close calculator/close calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 33_volume.wav,close calculator,close calculator 33_volume.wav,S33,close calculator/close calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 4.wav,close calculator,close calculator 4.wav,S04,close calculator/close calculator 4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 42.wav,close calculator,close calculator 42.wav,S42,close calculator/close calculator 42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 42_noise.wav,close calculator,close calculator 42_noise.wav,S42,close calculator/close calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 42_pitch.wav,close calculator,close calculator 42_pitch.wav,S42,close calculator/close calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 42_shift.wav,close calculator,close calculator 42_shift.wav,S42,close calculator/close calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 42_stretch.wav,close calculator,close calculator 42_stretch.wav,S42,close calculator/close calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 42_volume.wav,close calculator,close calculator 42_volume.wav,S42,close calculator/close calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 44.wav,close calculator,close calculator 44.wav,S44,close calculator/close calculator 44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 44_noise.wav,close calculator,close calculator 44_noise.wav,S44,close calculator/close calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 44_pitch.wav,close calculator,close calculator 44_pitch.wav,S44,close calculator/close calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 44_shift.wav,close calculator,close calculator 44_shift.wav,S44,close calculator/close calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 44_stretch.wav,close calculator,close calculator 44_stretch.wav,S44,close calculator/close calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 44_volume.wav,close calculator,close calculator 44_volume.wav,S44,close calculator/close calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 4_noise.wav,close calculator,close calculator 4_noise.wav,S04,close calculator/close calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 4_pitch.wav,close calculator,close calculator 4_pitch.wav,S04,close calculator/close calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 4_shift.wav,close calculator,close calculator 4_shift.wav,S04,close calculator/close calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 4_stretch.wav,close calculator,close calculator 4_stretch.wav,S04,close calculator/close calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 4_volume.wav,close calculator,close calculator 4_volume.wav,S04,close calculator/close calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 52.wav,close calculator,close calculator 52.wav,S52,close calculator/close calculator 52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 52_noise.wav,close calculator,close calculator 52_noise.wav,S52,close calculator/close calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 52_pitch.wav,close calculator,close calculator 52_pitch.wav,S52,close calculator/close calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 52_shift.wav,close calculator,close calculator 52_shift.wav,S52,close calculator/close calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 52_stretch.wav,close calculator,close calculator 52_stretch.wav,S52,close calculator/close calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 52_volume.wav,close calculator,close calculator 52_volume.wav,S52,close calculator/close calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 6.wav,close calculator,close calculator 6.wav,S06,close calculator/close calculator 6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 6_noise.wav,close calculator,close calculator 6_noise.wav,S06,close calculator/close calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 6_pitch.wav,close calculator,close calculator 6_pitch.wav,S06,close calculator/close calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 6_shift.wav,close calculator,close calculator 6_shift.wav,S06,close calculator/close calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 6_stretch.wav,close calculator,close calculator 6_stretch.wav,S06,close calculator/close calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator 6_volume.wav,close calculator,close calculator 6_volume.wav,S06,close calculator/close calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator18.wav,close calculator,close calculator18.wav,S18,close calculator/close calculator18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator18_noise.wav,close calculator,close calculator18_noise.wav,S18,close calculator/close calculator18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator18_pitch.wav,close calculator,close calculator18_pitch.wav,S18,close calculator/close calculator18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator18_shift.wav,close calculator,close calculator18_shift.wav,S18,close calculator/close calculator18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator18_stretch.wav,close calculator,close calculator18_stretch.wav,S18,close calculator/close calculator18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\close calculator18_volume.wav,close calculator,close calculator18_volume.wav,S18,close calculator/close calculator18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\Close Calculator48.wav,close calculator,Close Calculator48.wav,S48,close calculator/Close Calculator48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\Close Calculator48_noise.wav,close calculator,Close Calculator48_noise.wav,S48,close calculator/Close Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\Close Calculator48_pitch.wav,close calculator,Close Calculator48_pitch.wav,S48,close calculator/Close Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\Close Calculator48_shift.wav,close calculator,Close Calculator48_shift.wav,S48,close calculator/Close Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\Close Calculator48_stretch.wav,close calculator,Close Calculator48_stretch.wav,S48,close calculator/Close Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\close calculator\Close Calculator48_volume.wav,close calculator,Close Calculator48_volume.wav,S48,close calculator/Close Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help 20.wav,help,help 20.wav,S20,help/help 20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help 20_noise.wav,help,help 20_noise.wav,S20,help/help 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help 20_pitch.wav,help,help 20_pitch.wav,S20,help/help 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help 20_shift.wav,help,help 20_shift.wav,S20,help/help 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help 20_stretch.wav,help,help 20_stretch.wav,S20,help/help 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help 20_volume.wav,help,help 20_volume.wav,S20,help/help 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help13.wav,help,help13.wav,S13,help/help13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help13_noise.wav,help,help13_noise.wav,S13,help/help13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help13_pitch.wav,help,help13_pitch.wav,S13,help/help13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help13_shift.wav,help,help13_shift.wav,S13,help/help13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help13_stretch.wav,help,help13_stretch.wav,S13,help/help13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help13_volume.wav,help,help13_volume.wav,S13,help/help13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help14.wav,help,help14.wav,S14,help/help14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help14_noise.wav,help,help14_noise.wav,S14,help/help14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help14_pitch.wav,help,help14_pitch.wav,S14,help/help14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help14_shift.wav,help,help14_shift.wav,S14,help/help14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help14_stretch.wav,help,help14_stretch.wav,S14,help/help14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help14_volume.wav,help,help14_volume.wav,S14,help/help14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help18.wav,help,help18.wav,S18,help/help18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help18_noise.wav,help,help18_noise.wav,S18,help/help18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help18_pitch.wav,help,help18_pitch.wav,S18,help/help18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help18_shift.wav,help,help18_shift.wav,S18,help/help18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help18_stretch.wav,help,help18_stretch.wav,S18,help/help18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help18_volume.wav,help,help18_volume.wav,S18,help/help18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help33.wav,help,help33.wav,S33,help/help33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help33_noise.wav,help,help33_noise.wav,S33,help/help33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help33_pitch.wav,help,help33_pitch.wav,S33,help/help33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help33_shift.wav,help,help33_shift.wav,S33,help/help33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help33_stretch.wav,help,help33_stretch.wav,S33,help/help33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help33_volume.wav,help,help33_volume.wav,S33,help/help33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help4.wav,help,help4.wav,S04,help/help4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help42.wav,help,help42.wav,S42,help/help42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help42_noise.wav,help,help42_noise.wav,S42,help/help42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help42_pitch.wav,help,help42_pitch.wav,S42,help/help42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help42_shift.wav,help,help42_shift.wav,S42,help/help42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help42_stretch.wav,help,help42_stretch.wav,S42,help/help42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help42_volume.wav,help,help42_volume.wav,S42,help/help42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help44.wav,help,help44.wav,S44,help/help44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help44_noise.wav,help,help44_noise.wav,S44,help/help44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help44_pitch.wav,help,help44_pitch.wav,S44,help/help44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help44_shift.wav,help,help44_shift.wav,S44,help/help44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help44_stretch.wav,help,help44_stretch.wav,S44,help/help44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help44_volume.wav,help,help44_volume.wav,S44,help/help44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\Help48.wav,help,Help48.wav,S48,help/Help48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\Help48_noise.wav,help,Help48_noise.wav,S48,help/Help48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\Help48_pitch.wav,help,Help48_pitch.wav,S48,help/Help48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\Help48_shift.wav,help,Help48_shift.wav,S48,help/Help48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\Help48_stretch.wav,help,Help48_stretch.wav,S48,help/Help48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\Help48_volume.wav,help,Help48_volume.wav,S48,help/Help48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help4_noise.wav,help,help4_noise.wav,S04,help/help4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help4_pitch.wav,help,help4_pitch.wav,S04,help/help4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help4_shift.wav,help,help4_shift.wav,S04,help/help4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help4_stretch.wav,help,help4_stretch.wav,S04,help/help4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help4_volume.wav,help,help4_volume.wav,S04,help/help4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help52.wav,help,help52.wav,S52,help/help52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help52_noise.wav,help,help52_noise.wav,S52,help/help52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help52_pitch.wav,help,help52_pitch.wav,S52,help/help52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help52_shift.wav,help,help52_shift.wav,S52,help/help52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help52_stretch.wav,help,help52_stretch.wav,S52,help/help52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help52_volume.wav,help,help52_volume.wav,S52,help/help52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help6.wav,help,help6.wav,S06,help/help6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help6_noise.wav,help,help6_noise.wav,S06,help/help6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help6_pitch.wav,help,help6_pitch.wav,S06,help/help6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help6_shift.wav,help,help6_shift.wav,S06,help/help6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help6_stretch.wav,help,help6_stretch.wav,S06,help/help6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\help\help6_volume.wav,help,help6_volume.wav,S06,help/help6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute 42.wav,mute,mute 42.wav,S42,mute/mute 42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute 42_noise.wav,mute,mute 42_noise.wav,S42,mute/mute 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute 42_pitch.wav,mute,mute 42_pitch.wav,S42,mute/mute 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute 42_shift.wav,mute,mute 42_shift.wav,S42,mute/mute 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute 42_stretch.wav,mute,mute 42_stretch.wav,S42,mute/mute 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute 42_volume.wav,mute,mute 42_volume.wav,S42,mute/mute 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute13.wav,mute,mute13.wav,S13,mute/mute13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute13_noise.wav,mute,mute13_noise.wav,S13,mute/mute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute13_pitch.wav,mute,mute13_pitch.wav,S13,mute/mute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute13_shift.wav,mute,mute13_shift.wav,S13,mute/mute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute13_stretch.wav,mute,mute13_stretch.wav,S13,mute/mute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute13_volume.wav,mute,mute13_volume.wav,S13,mute/mute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute14.wav,mute,mute14.wav,S14,mute/mute14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute14_noise.wav,mute,mute14_noise.wav,S14,mute/mute14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute14_pitch.wav,mute,mute14_pitch.wav,S14,mute/mute14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute14_shift.wav,mute,mute14_shift.wav,S14,mute/mute14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute14_stretch.wav,mute,mute14_stretch.wav,S14,mute/mute14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute14_volume.wav,mute,mute14_volume.wav,S14,mute/mute14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute18.wav,mute,mute18.wav,S18,mute/mute18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute18_noise.wav,mute,mute18_noise.wav,S18,mute/mute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute18_pitch.wav,mute,mute18_pitch.wav,S18,mute/mute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute18_shift.wav,mute,mute18_shift.wav,S18,mute/mute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute18_stretch.wav,mute,mute18_stretch.wav,S18,mute/mute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute18_volume.wav,mute,mute18_volume.wav,S18,mute/mute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute20.wav,mute,mute20.wav,S20,mute/mute20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute20_noise.wav,mute,mute20_noise.wav,S20,mute/mute20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute20_pitch.wav,mute,mute20_pitch.wav,S20,mute/mute20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute20_shift.wav,mute,mute20_shift.wav,S20,mute/mute20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute20_stretch.wav,mute,mute20_stretch.wav,S20,mute/mute20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute20_volume.wav,mute,mute20_volume.wav,S20,mute/mute20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute4.wav,mute,mute4.wav,S04,mute/mute4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute44.wav,mute,mute44.wav,S44,mute/mute44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute44_noise.wav,mute,mute44_noise.wav,S44,mute/mute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute44_pitch.wav,mute,mute44_pitch.wav,S44,mute/mute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute44_shift.wav,mute,mute44_shift.wav,S44,mute/mute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute44_stretch.wav,mute,mute44_stretch.wav,S44,mute/mute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute44_volume.wav,mute,mute44_volume.wav,S44,mute/mute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\Mute48.wav,mute,Mute48.wav,S48,mute/Mute48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\Mute48_noise.wav,mute,Mute48_noise.wav,S48,mute/Mute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\Mute48_pitch.wav,mute,Mute48_pitch.wav,S48,mute/Mute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\Mute48_shift.wav,mute,Mute48_shift.wav,S48,mute/Mute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\Mute48_stretch.wav,mute,Mute48_stretch.wav,S48,mute/Mute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\Mute48_volume.wav,mute,Mute48_volume.wav,S48,mute/Mute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute4_noise.wav,mute,mute4_noise.wav,S04,mute/mute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute4_pitch.wav,mute,mute4_pitch.wav,S04,mute/mute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute4_shift.wav,mute,mute4_shift.wav,S04,mute/mute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute4_stretch.wav,mute,mute4_stretch.wav,S04,mute/mute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute4_volume.wav,mute,mute4_volume.wav,S04,mute/mute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute52.wav,mute,mute52.wav,S52,mute/mute52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute52_noise.wav,mute,mute52_noise.wav,S52,mute/mute52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute52_pitch.wav,mute,mute52_pitch.wav,S52,mute/mute52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute52_shift.wav,mute,mute52_shift.wav,S52,mute/mute52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute52_stretch.wav,mute,mute52_stretch.wav,S52,mute/mute52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute52_volume.wav,mute,mute52_volume.wav,S52,mute/mute52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute6.wav,mute,mute6.wav,S06,mute/mute6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute6_noise.wav,mute,mute6_noise.wav,S06,mute/mute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute6_pitch.wav,mute,mute6_pitch.wav,S06,mute/mute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute6_shift.wav,mute,mute6_shift.wav,S06,mute/mute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute6_stretch.wav,mute,mute6_stretch.wav,S06,mute/mute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\mute\mute6_volume.wav,mute,mute6_volume.wav,S06,mute/mute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next13.wav,next,next13.wav,S13,next/next13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next13_noise.wav,next,next13_noise.wav,S13,next/next13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next13_pitch.wav,next,next13_pitch.wav,S13,next/next13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next13_shift.wav,next,next13_shift.wav,S13,next/next13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next13_stretch.wav,next,next13_stretch.wav,S13,next/next13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next13_volume.wav,next,next13_volume.wav,S13,next/next13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next14.wav,next,next14.wav,S14,next/next14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next14_noise.wav,next,next14_noise.wav,S14,next/next14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next14_pitch.wav,next,next14_pitch.wav,S14,next/next14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next14_shift.wav,next,next14_shift.wav,S14,next/next14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next14_stretch.wav,next,next14_stretch.wav,S14,next/next14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next14_volume.wav,next,next14_volume.wav,S14,next/next14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next18.wav,next,next18.wav,S18,next/next18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next18_noise.wav,next,next18_noise.wav,S18,next/next18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next18_pitch.wav,next,next18_pitch.wav,S18,next/next18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next18_shift.wav,next,next18_shift.wav,S18,next/next18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next18_stretch.wav,next,next18_stretch.wav,S18,next/next18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next18_volume.wav,next,next18_volume.wav,S18,next/next18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next20.wav,next,next20.wav,S20,next/next20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next20_noise.wav,next,next20_noise.wav,S20,next/next20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next20_pitch.wav,next,next20_pitch.wav,S20,next/next20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next20_shift.wav,next,next20_shift.wav,S20,next/next20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next20_stretch.wav,next,next20_stretch.wav,S20,next/next20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next20_volume.wav,next,next20_volume.wav,S20,next/next20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next33.wav,next,next33.wav,S33,next/next33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next33_noise.wav,next,next33_noise.wav,S33,next/next33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next33_pitch.wav,next,next33_pitch.wav,S33,next/next33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next33_shift.wav,next,next33_shift.wav,S33,next/next33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next33_stretch.wav,next,next33_stretch.wav,S33,next/next33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next33_volume.wav,next,next33_volume.wav,S33,next/next33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next4.wav,next,next4.wav,S04,next/next4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next42.wav,next,next42.wav,S42,next/next42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next42_noise.wav,next,next42_noise.wav,S42,next/next42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next42_pitch.wav,next,next42_pitch.wav,S42,next/next42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next42_shift.wav,next,next42_shift.wav,S42,next/next42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next42_stretch.wav,next,next42_stretch.wav,S42,next/next42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next42_volume.wav,next,next42_volume.wav,S42,next/next42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next44.wav,next,next44.wav,S44,next/next44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next44_noise.wav,next,next44_noise.wav,S44,next/next44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next44_pitch.wav,next,next44_pitch.wav,S44,next/next44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next44_shift.wav,next,next44_shift.wav,S44,next/next44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next44_stretch.wav,next,next44_stretch.wav,S44,next/next44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next44_volume.wav,next,next44_volume.wav,S44,next/next44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\Next48.wav,next,Next48.wav,S48,next/Next48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\Next48_noise.wav,next,Next48_noise.wav,S48,next/Next48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\Next48_pitch.wav,next,Next48_pitch.wav,S48,next/Next48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\Next48_shift.wav,next,Next48_shift.wav,S48,next/Next48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\Next48_stretch.wav,next,Next48_stretch.wav,S48,next/Next48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\Next48_volume.wav,next,Next48_volume.wav,S48,next/Next48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next4_noise.wav,next,next4_noise.wav,S04,next/next4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next4_pitch.wav,next,next4_pitch.wav,S04,next/next4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next4_shift.wav,next,next4_shift.wav,S04,next/next4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next4_stretch.wav,next,next4_stretch.wav,S04,next/next4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next4_volume.wav,next,next4_volume.wav,S04,next/next4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next52.wav,next,next52.wav,S52,next/next52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next52_noise.wav,next,next52_noise.wav,S52,next/next52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next52_pitch.wav,next,next52_pitch.wav,S52,next/next52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next52_shift.wav,next,next52_shift.wav,S52,next/next52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next52_stretch.wav,next,next52_stretch.wav,S52,next/next52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next52_volume.wav,next,next52_volume.wav,S52,next/next52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next6.wav,next,next6.wav,S06,next/next6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next6_noise.wav,next,next6_noise.wav,S06,next/next6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next6_pitch.wav,next,next6_pitch.wav,S06,next/next6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next6_shift.wav,next,next6_shift.wav,S06,next/next6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next6_stretch.wav,next,next6_stretch.wav,S06,next/next6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\next\next6_volume.wav,next,next6_volume.wav,S06,next/next6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 13.wav,open browser,open browser 13.wav,S13,open browser/open browser 13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 13_noise.wav,open browser,open browser 13_noise.wav,S13,open browser/open browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 13_pitch.wav,open browser,open browser 13_pitch.wav,S13,open browser/open browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 13_shift.wav,open browser,open browser 13_shift.wav,S13,open browser/open browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 13_stretch.wav,open browser,open browser 13_stretch.wav,S13,open browser/open browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 13_volume.wav,open browser,open browser 13_volume.wav,S13,open browser/open browser 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 14.wav,open browser,open browser 14.wav,S14,open browser/open browser 14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 14_noise.wav,open browser,open browser 14_noise.wav,S14,open browser/open browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 14_pitch.wav,open browser,open browser 14_pitch.wav,S14,open browser/open browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 14_shift.wav,open browser,open browser 14_shift.wav,S14,open browser/open browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 14_stretch.wav,open browser,open browser 14_stretch.wav,S14,open browser/open browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 14_volume.wav,open browser,open browser 14_volume.wav,S14,open browser/open browser 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 18.wav,open browser,open browser 18.wav,S18,open browser/open browser 18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 18_noise.wav,open browser,open browser 18_noise.wav,S18,open browser/open browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 18_pitch.wav,open browser,open browser 18_pitch.wav,S18,open browser/open browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 18_shift.wav,open browser,open browser 18_shift.wav,S18,open browser/open browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 18_stretch.wav,open browser,open browser 18_stretch.wav,S18,open browser/open browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 18_volume.wav,open browser,open browser 18_volume.wav,S18,open browser/open browser 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 20.wav,open browser,open browser 20.wav,S20,open browser/open browser 20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 20_noise.wav,open browser,open browser 20_noise.wav,S20,open browser/open browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 20_pitch.wav,open browser,open browser 20_pitch.wav,S20,open browser/open browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 20_shift.wav,open browser,open browser 20_shift.wav,S20,open browser/open browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 20_stretch.wav,open browser,open browser 20_stretch.wav,S20,open browser/open browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 20_volume.wav,open browser,open browser 20_volume.wav,S20,open browser/open browser 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 33.wav,open browser,open browser 33.wav,S33,open browser/open browser 33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 33_noise.wav,open browser,open browser 33_noise.wav,S33,open browser/open browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 33_pitch.wav,open browser,open browser 33_pitch.wav,S33,open browser/open browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 33_shift.wav,open browser,open browser 33_shift.wav,S33,open browser/open browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 33_stretch.wav,open browser,open browser 33_stretch.wav,S33,open browser/open browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 33_volume.wav,open browser,open browser 33_volume.wav,S33,open browser/open browser 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 42.wav,open browser,open browser 42.wav,S42,open browser/open browser 42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 42_noise.wav,open browser,open browser 42_noise.wav,S42,open browser/open browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 42_pitch.wav,open browser,open browser 42_pitch.wav,S42,open browser/open browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 42_shift.wav,open browser,open browser 42_shift.wav,S42,open browser/open browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 42_stretch.wav,open browser,open browser 42_stretch.wav,S42,open browser/open browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 42_volume.wav,open browser,open browser 42_volume.wav,S42,open browser/open browser 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 44.wav,open browser,open browser 44.wav,S44,open browser/open browser 44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 44_noise.wav,open browser,open browser 44_noise.wav,S44,open browser/open browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 44_pitch.wav,open browser,open browser 44_pitch.wav,S44,open browser/open browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 44_shift.wav,open browser,open browser 44_shift.wav,S44,open browser/open browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 44_stretch.wav,open browser,open browser 44_stretch.wav,S44,open browser/open browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 44_volume.wav,open browser,open browser 44_volume.wav,S44,open browser/open browser 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 52.wav,open browser,open browser 52.wav,S52,open browser/open browser 52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 52_noise.wav,open browser,open browser 52_noise.wav,S52,open browser/open browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 52_pitch.wav,open browser,open browser 52_pitch.wav,S52,open browser/open browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 52_shift.wav,open browser,open browser 52_shift.wav,S52,open browser/open browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 52_stretch.wav,open browser,open browser 52_stretch.wav,S52,open browser/open browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 52_volume.wav,open browser,open browser 52_volume.wav,S52,open browser/open browser 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 6.wav,open browser,open browser 6.wav,S06,open browser/open browser 6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 6_noise.wav,open browser,open browser 6_noise.wav,S06,open browser/open browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 6_pitch.wav,open browser,open browser 6_pitch.wav,S06,open browser/open browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 6_shift.wav,open browser,open browser 6_shift.wav,S06,open browser/open browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 6_stretch.wav,open browser,open browser 6_stretch.wav,S06,open browser/open browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser 6_volume.wav,open browser,open browser 6_volume.wav,S06,open browser/open browser 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser4.wav,open browser,open browser4.wav,S04,open browser/open browser4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\Open Browser48.wav,open browser,Open Browser48.wav,S48,open browser/Open Browser48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\Open Browser48_noise.wav,open browser,Open Browser48_noise.wav,S48,open browser/Open Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\Open Browser48_pitch.wav,open browser,Open Browser48_pitch.wav,S48,open browser/Open Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\Open Browser48_shift.wav,open browser,Open Browser48_shift.wav,S48,open browser/Open Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\Open Browser48_stretch.wav,open browser,Open Browser48_stretch.wav,S48,open browser/Open Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\Open Browser48_volume.wav,open browser,Open Browser48_volume.wav,S48,open browser/Open Browser48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser4_noise.wav,open browser,open browser4_noise.wav,S04,open browser/open browser4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser4_pitch.wav,open browser,open browser4_pitch.wav,S04,open browser/open browser4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser4_shift.wav,open browser,open browser4_shift.wav,S04,open browser/open browser4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser4_stretch.wav,open browser,open browser4_stretch.wav,S04,open browser/open browser4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open browser\open browser4_volume.wav,open browser,open browser4_volume.wav,S04,open browser/open browser4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 13.wav,open calculator,open calculator 13.wav,S13,open calculator/open calculator 13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 13_noise.wav,open calculator,open calculator 13_noise.wav,S13,open calculator/open calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 13_pitch.wav,open calculator,open calculator 13_pitch.wav,S13,open calculator/open calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 13_shift.wav,open calculator,open calculator 13_shift.wav,S13,open calculator/open calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 13_stretch.wav,open calculator,open calculator 13_stretch.wav,S13,open calculator/open calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 13_volume.wav,open calculator,open calculator 13_volume.wav,S13,open calculator/open calculator 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 14.wav,open calculator,open calculator 14.wav,S14,open calculator/open calculator 14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 14_noise.wav,open calculator,open calculator 14_noise.wav,S14,open calculator/open calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 14_pitch.wav,open calculator,open calculator 14_pitch.wav,S14,open calculator/open calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 14_shift.wav,open calculator,open calculator 14_shift.wav,S14,open calculator/open calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 14_stretch.wav,open calculator,open calculator 14_stretch.wav,S14,open calculator/open calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 14_volume.wav,open calculator,open calculator 14_volume.wav,S14,open calculator/open calculator 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 18.wav,open calculator,open calculator 18.wav,S18,open calculator/open calculator 18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 18_noise.wav,open calculator,open calculator 18_noise.wav,S18,open calculator/open calculator 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 18_pitch.wav,open calculator,open calculator 18_pitch.wav,S18,open calculator/open calculator 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 18_shift.wav,open calculator,open calculator 18_shift.wav,S18,open calculator/open calculator 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 18_stretch.wav,open calculator,open calculator 18_stretch.wav,S18,open calculator/open calculator 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 18_volume.wav,open calculator,open calculator 18_volume.wav,S18,open calculator/open calculator 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 20.wav,open calculator,open calculator 20.wav,S20,open calculator/open calculator 20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 20_noise.wav,open calculator,open calculator 20_noise.wav,S20,open calculator/open calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 20_pitch.wav,open calculator,open calculator 20_pitch.wav,S20,open calculator/open calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 20_shift.wav,open calculator,open calculator 20_shift.wav,S20,open calculator/open calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 20_stretch.wav,open calculator,open calculator 20_stretch.wav,S20,open calculator/open calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 20_volume.wav,open calculator,open calculator 20_volume.wav,S20,open calculator/open calculator 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 33.wav,open calculator,open calculator 33.wav,S33,open calculator/open calculator 33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 33_noise.wav,open calculator,open calculator 33_noise.wav,S33,open calculator/open calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 33_pitch.wav,open calculator,open calculator 33_pitch.wav,S33,open calculator/open calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 33_shift.wav,open calculator,open calculator 33_shift.wav,S33,open calculator/open calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 33_stretch.wav,open calculator,open calculator 33_stretch.wav,S33,open calculator/open calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 33_volume.wav,open calculator,open calculator 33_volume.wav,S33,open calculator/open calculator 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 4.wav,open calculator,open calculator 4.wav,S04,open calculator/open calculator 4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 42.wav,open calculator,open calculator 42.wav,S42,open calculator/open calculator 42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 42_noise.wav,open calculator,open calculator 42_noise.wav,S42,open calculator/open calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 42_pitch.wav,open calculator,open calculator 42_pitch.wav,S42,open calculator/open calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 42_shift.wav,open calculator,open calculator 42_shift.wav,S42,open calculator/open calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 42_stretch.wav,open calculator,open calculator 42_stretch.wav,S42,open calculator/open calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 42_volume.wav,open calculator,open calculator 42_volume.wav,S42,open calculator/open calculator 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 44.wav,open calculator,open calculator 44.wav,S44,open calculator/open calculator 44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 44_noise.wav,open calculator,open calculator 44_noise.wav,S44,open calculator/open calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 44_pitch.wav,open calculator,open calculator 44_pitch.wav,S44,open calculator/open calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 44_shift.wav,open calculator,open calculator 44_shift.wav,S44,open calculator/open calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 44_stretch.wav,open calculator,open calculator 44_stretch.wav,S44,open calculator/open calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 44_volume.wav,open calculator,open calculator 44_volume.wav,S44,open calculator/open calculator 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 4_noise.wav,open calculator,open calculator 4_noise.wav,S04,open calculator/open calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 4_pitch.wav,open calculator,open calculator 4_pitch.wav,S04,open calculator/open calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 4_shift.wav,open calculator,open calculator 4_shift.wav,S04,open calculator/open calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 4_stretch.wav,open calculator,open calculator 4_stretch.wav,S04,open calculator/open calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 4_volume.wav,open calculator,open calculator 4_volume.wav,S04,open calculator/open calculator 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 52.wav,open calculator,open calculator 52.wav,S52,open calculator/open calculator 52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 52_noise.wav,open calculator,open calculator 52_noise.wav,S52,open calculator/open calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 52_pitch.wav,open calculator,open calculator 52_pitch.wav,S52,open calculator/open calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 52_shift.wav,open calculator,open calculator 52_shift.wav,S52,open calculator/open calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 52_stretch.wav,open calculator,open calculator 52_stretch.wav,S52,open calculator/open calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 52_volume.wav,open calculator,open calculator 52_volume.wav,S52,open calculator/open calculator 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 6.wav,open calculator,open calculator 6.wav,S06,open calculator/open calculator 6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 6_noise.wav,open calculator,open calculator 6_noise.wav,S06,open calculator/open calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 6_pitch.wav,open calculator,open calculator 6_pitch.wav,S06,open calculator/open calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 6_shift.wav,open calculator,open calculator 6_shift.wav,S06,open calculator/open calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 6_stretch.wav,open calculator,open calculator 6_stretch.wav,S06,open calculator/open calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\open calculator 6_volume.wav,open calculator,open calculator 6_volume.wav,S06,open calculator/open calculator 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\Open Calculator48.wav,open calculator,Open Calculator48.wav,S48,open calculator/Open Calculator48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\Open Calculator48_noise.wav,open calculator,Open Calculator48_noise.wav,S48,open calculator/Open Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\Open Calculator48_pitch.wav,open calculator,Open Calculator48_pitch.wav,S48,open calculator/Open Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\Open Calculator48_shift.wav,open calculator,Open Calculator48_shift.wav,S48,open calculator/Open Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\Open Calculator48_stretch.wav,open calculator,Open Calculator48_stretch.wav,S48,open calculator/Open Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\open calculator\Open Calculator48_volume.wav,open calculator,Open Calculator48_volume.wav,S48,open calculator/Open Calculator48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause 42.wav,pause,pause 42.wav,S42,pause/pause 42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause 42_noise.wav,pause,pause 42_noise.wav,S42,pause/pause 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause 42_pitch.wav,pause,pause 42_pitch.wav,S42,pause/pause 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause 42_shift.wav,pause,pause 42_shift.wav,S42,pause/pause 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause 42_stretch.wav,pause,pause 42_stretch.wav,S42,pause/pause 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause 42_volume.wav,pause,pause 42_volume.wav,S42,pause/pause 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause13.wav,pause,pause13.wav,S13,pause/pause13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause13_noise.wav,pause,pause13_noise.wav,S13,pause/pause13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause13_pitch.wav,pause,pause13_pitch.wav,S13,pause/pause13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause13_shift.wav,pause,pause13_shift.wav,S13,pause/pause13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause13_stretch.wav,pause,pause13_stretch.wav,S13,pause/pause13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause13_volume.wav,pause,pause13_volume.wav,S13,pause/pause13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause14.wav,pause,pause14.wav,S14,pause/pause14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause14_noise.wav,pause,pause14_noise.wav,S14,pause/pause14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause14_pitch.wav,pause,pause14_pitch.wav,S14,pause/pause14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause14_shift.wav,pause,pause14_shift.wav,S14,pause/pause14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause14_stretch.wav,pause,pause14_stretch.wav,S14,pause/pause14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause14_volume.wav,pause,pause14_volume.wav,S14,pause/pause14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause18.wav,pause,pause18.wav,S18,pause/pause18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause18_noise.wav,pause,pause18_noise.wav,S18,pause/pause18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause18_pitch.wav,pause,pause18_pitch.wav,S18,pause/pause18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause18_shift.wav,pause,pause18_shift.wav,S18,pause/pause18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause18_stretch.wav,pause,pause18_stretch.wav,S18,pause/pause18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause18_volume.wav,pause,pause18_volume.wav,S18,pause/pause18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause20.wav,pause,pause20.wav,S20,pause/pause20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause20_noise.wav,pause,pause20_noise.wav,S20,pause/pause20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause20_pitch.wav,pause,pause20_pitch.wav,S20,pause/pause20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause20_shift.wav,pause,pause20_shift.wav,S20,pause/pause20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause20_stretch.wav,pause,pause20_stretch.wav,S20,pause/pause20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause20_volume.wav,pause,pause20_volume.wav,S20,pause/pause20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause33.wav,pause,pause33.wav,S33,pause/pause33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause33_noise.wav,pause,pause33_noise.wav,S33,pause/pause33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause33_pitch.wav,pause,pause33_pitch.wav,S33,pause/pause33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause33_shift.wav,pause,pause33_shift.wav,S33,pause/pause33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause33_stretch.wav,pause,pause33_stretch.wav,S33,pause/pause33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause33_volume.wav,pause,pause33_volume.wav,S33,pause/pause33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause4.wav,pause,pause4.wav,S04,pause/pause4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause44.wav,pause,pause44.wav,S44,pause/pause44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause44_noise.wav,pause,pause44_noise.wav,S44,pause/pause44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause44_pitch.wav,pause,pause44_pitch.wav,S44,pause/pause44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause44_shift.wav,pause,pause44_shift.wav,S44,pause/pause44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause44_stretch.wav,pause,pause44_stretch.wav,S44,pause/pause44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause44_volume.wav,pause,pause44_volume.wav,S44,pause/pause44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\Pause48.wav,pause,Pause48.wav,S48,pause/Pause48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\Pause48_noise.wav,pause,Pause48_noise.wav,S48,pause/Pause48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\Pause48_pitch.wav,pause,Pause48_pitch.wav,S48,pause/Pause48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\Pause48_shift.wav,pause,Pause48_shift.wav,S48,pause/Pause48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\Pause48_stretch.wav,pause,Pause48_stretch.wav,S48,pause/Pause48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\Pause48_volume.wav,pause,Pause48_volume.wav,S48,pause/Pause48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause4_noise.wav,pause,pause4_noise.wav,S04,pause/pause4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause4_pitch.wav,pause,pause4_pitch.wav,S04,pause/pause4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause4_shift.wav,pause,pause4_shift.wav,S04,pause/pause4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause4_stretch.wav,pause,pause4_stretch.wav,S04,pause/pause4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause4_volume.wav,pause,pause4_volume.wav,S04,pause/pause4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause52.wav,pause,pause52.wav,S52,pause/pause52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause52_noise.wav,pause,pause52_noise.wav,S52,pause/pause52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause52_pitch.wav,pause,pause52_pitch.wav,S52,pause/pause52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause52_shift.wav,pause,pause52_shift.wav,S52,pause/pause52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause52_stretch.wav,pause,pause52_stretch.wav,S52,pause/pause52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause52_volume.wav,pause,pause52_volume.wav,S52,pause/pause52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause6.wav,pause,pause6.wav,S06,pause/pause6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause6_noise.wav,pause,pause6_noise.wav,S06,pause/pause6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause6_pitch.wav,pause,pause6_pitch.wav,S06,pause/pause6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause6_shift.wav,pause,pause6_shift.wav,S06,pause/pause6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause6_stretch.wav,pause,pause6_stretch.wav,S06,pause/pause6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\pause\pause6_volume.wav,pause,pause6_volume.wav,S06,pause/pause6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play13.wav,play,play13.wav,S13,play/play13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play13_noise.wav,play,play13_noise.wav,S13,play/play13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play13_pitch.wav,play,play13_pitch.wav,S13,play/play13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play13_shift.wav,play,play13_shift.wav,S13,play/play13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play13_stretch.wav,play,play13_stretch.wav,S13,play/play13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play13_volume.wav,play,play13_volume.wav,S13,play/play13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play14.wav,play,play14.wav,S14,play/play14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play14_noise.wav,play,play14_noise.wav,S14,play/play14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play14_pitch.wav,play,play14_pitch.wav,S14,play/play14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play14_shift.wav,play,play14_shift.wav,S14,play/play14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play14_stretch.wav,play,play14_stretch.wav,S14,play/play14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play14_volume.wav,play,play14_volume.wav,S14,play/play14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play18.wav,play,play18.wav,S18,play/play18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play18_noise.wav,play,play18_noise.wav,S18,play/play18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play18_pitch.wav,play,play18_pitch.wav,S18,play/play18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play18_shift.wav,play,play18_shift.wav,S18,play/play18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play18_stretch.wav,play,play18_stretch.wav,S18,play/play18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play18_volume.wav,play,play18_volume.wav,S18,play/play18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play20.wav,play,play20.wav,S20,play/play20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play20_noise.wav,play,play20_noise.wav,S20,play/play20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play20_pitch.wav,play,play20_pitch.wav,S20,play/play20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play20_shift.wav,play,play20_shift.wav,S20,play/play20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play20_stretch.wav,play,play20_stretch.wav,S20,play/play20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play20_volume.wav,play,play20_volume.wav,S20,play/play20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play33.wav,play,play33.wav,S33,play/play33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play33_noise.wav,play,play33_noise.wav,S33,play/play33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play33_pitch.wav,play,play33_pitch.wav,S33,play/play33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play33_shift.wav,play,play33_shift.wav,S33,play/play33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play33_stretch.wav,play,play33_stretch.wav,S33,play/play33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play33_volume.wav,play,play33_volume.wav,S33,play/play33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play4.wav,play,play4.wav,S04,play/play4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play42.wav,play,play42.wav,S42,play/play42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play42_noise.wav,play,play42_noise.wav,S42,play/play42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play42_pitch.wav,play,play42_pitch.wav,S42,play/play42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play42_shift.wav,play,play42_shift.wav,S42,play/play42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play42_stretch.wav,play,play42_stretch.wav,S42,play/play42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play42_volume.wav,play,play42_volume.wav,S42,play/play42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play44.wav,play,play44.wav,S44,play/play44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play44_noise.wav,play,play44_noise.wav,S44,play/play44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play44_pitch.wav,play,play44_pitch.wav,S44,play/play44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play44_shift.wav,play,play44_shift.wav,S44,play/play44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play44_stretch.wav,play,play44_stretch.wav,S44,play/play44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play44_volume.wav,play,play44_volume.wav,S44,play/play44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play48.wav,play,play48.wav,S48,play/play48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play48_noise.wav,play,play48_noise.wav,S48,play/play48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play48_pitch.wav,play,play48_pitch.wav,S48,play/play48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play48_shift.wav,play,play48_shift.wav,S48,play/play48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play48_stretch.wav,play,play48_stretch.wav,S48,play/play48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play48_volume.wav,play,play48_volume.wav,S48,play/play48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play4_noise.wav,play,play4_noise.wav,S04,play/play4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play4_pitch.wav,play,play4_pitch.wav,S04,play/play4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play4_shift.wav,play,play4_shift.wav,S04,play/play4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play4_stretch.wav,play,play4_stretch.wav,S04,play/play4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play4_volume.wav,play,play4_volume.wav,S04,play/play4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play52.wav,play,play52.wav,S52,play/play52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play52_noise.wav,play,play52_noise.wav,S52,play/play52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play52_pitch.wav,play,play52_pitch.wav,S52,play/play52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play52_shift.wav,play,play52_shift.wav,S52,play/play52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play52_stretch.wav,play,play52_stretch.wav,S52,play/play52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play52_volume.wav,play,play52_volume.wav,S52,play/play52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play6.wav,play,play6.wav,S06,play/play6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play6_noise.wav,play,play6_noise.wav,S06,play/play6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play6_pitch.wav,play,play6_pitch.wav,S06,play/play6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play6_shift.wav,play,play6_shift.wav,S06,play/play6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play6_stretch.wav,play,play6_stretch.wav,S06,play/play6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\play\play6_volume.wav,play,play6_volume.wav,S06,play/play6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 13.wav,previous,previous 13.wav,S13,previous/previous 13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 13_noise.wav,previous,previous 13_noise.wav,S13,previous/previous 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 13_pitch.wav,previous,previous 13_pitch.wav,S13,previous/previous 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 13_shift.wav,previous,previous 13_shift.wav,S13,previous/previous 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 13_stretch.wav,previous,previous 13_stretch.wav,S13,previous/previous 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 13_volume.wav,previous,previous 13_volume.wav,S13,previous/previous 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 14.wav,previous,previous 14.wav,S14,previous/previous 14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 14_noise.wav,previous,previous 14_noise.wav,S14,previous/previous 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 14_pitch.wav,previous,previous 14_pitch.wav,S14,previous/previous 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 14_shift.wav,previous,previous 14_shift.wav,S14,previous/previous 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 14_stretch.wav,previous,previous 14_stretch.wav,S14,previous/previous 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 14_volume.wav,previous,previous 14_volume.wav,S14,previous/previous 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 18.wav,previous,previous 18.wav,S18,previous/previous 18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 18_noise.wav,previous,previous 18_noise.wav,S18,previous/previous 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 18_pitch.wav,previous,previous 18_pitch.wav,S18,previous/previous 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 18_shift.wav,previous,previous 18_shift.wav,S18,previous/previous 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 18_stretch.wav,previous,previous 18_stretch.wav,S18,previous/previous 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 18_volume.wav,previous,previous 18_volume.wav,S18,previous/previous 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 20.wav,previous,previous 20.wav,S20,previous/previous 20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 20_noise.wav,previous,previous 20_noise.wav,S20,previous/previous 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 20_pitch.wav,previous,previous 20_pitch.wav,S20,previous/previous 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 20_shift.wav,previous,previous 20_shift.wav,S20,previous/previous 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 20_stretch.wav,previous,previous 20_stretch.wav,S20,previous/previous 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 20_volume.wav,previous,previous 20_volume.wav,S20,previous/previous 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 33.wav,previous,previous 33.wav,S33,previous/previous 33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 33_noise.wav,previous,previous 33_noise.wav,S33,previous/previous 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 33_pitch.wav,previous,previous 33_pitch.wav,S33,previous/previous 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 33_shift.wav,previous,previous 33_shift.wav,S33,previous/previous 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 33_stretch.wav,previous,previous 33_stretch.wav,S33,previous/previous 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 33_volume.wav,previous,previous 33_volume.wav,S33,previous/previous 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 4.wav,previous,previous 4.wav,S04,previous/previous 4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 42.wav,previous,previous 42.wav,S42,previous/previous 42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 42_noise.wav,previous,previous 42_noise.wav,S42,previous/previous 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 42_pitch.wav,previous,previous 42_pitch.wav,S42,previous/previous 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 42_shift.wav,previous,previous 42_shift.wav,S42,previous/previous 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 42_stretch.wav,previous,previous 42_stretch.wav,S42,previous/previous 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 42_volume.wav,previous,previous 42_volume.wav,S42,previous/previous 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 44.wav,previous,previous 44.wav,S44,previous/previous 44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 44_noise.wav,previous,previous 44_noise.wav,S44,previous/previous 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 44_pitch.wav,previous,previous 44_pitch.wav,S44,previous/previous 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 44_shift.wav,previous,previous 44_shift.wav,S44,previous/previous 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 44_stretch.wav,previous,previous 44_stretch.wav,S44,previous/previous 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 44_volume.wav,previous,previous 44_volume.wav,S44,previous/previous 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 4_noise.wav,previous,previous 4_noise.wav,S04,previous/previous 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 4_pitch.wav,previous,previous 4_pitch.wav,S04,previous/previous 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 4_shift.wav,previous,previous 4_shift.wav,S04,previous/previous 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 4_stretch.wav,previous,previous 4_stretch.wav,S04,previous/previous 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 4_volume.wav,previous,previous 4_volume.wav,S04,previous/previous 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 52.wav,previous,previous 52.wav,S52,previous/previous 52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 52_noise.wav,previous,previous 52_noise.wav,S52,previous/previous 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 52_pitch.wav,previous,previous 52_pitch.wav,S52,previous/previous 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 52_shift.wav,previous,previous 52_shift.wav,S52,previous/previous 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 52_stretch.wav,previous,previous 52_stretch.wav,S52,previous/previous 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 52_volume.wav,previous,previous 52_volume.wav,S52,previous/previous 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 6.wav,previous,previous 6.wav,S06,previous/previous 6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 6_noise.wav,previous,previous 6_noise.wav,S06,previous/previous 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 6_pitch.wav,previous,previous 6_pitch.wav,S06,previous/previous 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 6_shift.wav,previous,previous 6_shift.wav,S06,previous/previous 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 6_stretch.wav,previous,previous 6_stretch.wav,S06,previous/previous 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\previous 6_volume.wav,previous,previous 6_volume.wav,S06,previous/previous 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\Previous48.wav,previous,Previous48.wav,S48,previous/Previous48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\Previous48_noise.wav,previous,Previous48_noise.wav,S48,previous/Previous48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\Previous48_pitch.wav,previous,Previous48_pitch.wav,S48,previous/Previous48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\Previous48_shift.wav,previous,Previous48_shift.wav,S48,previous/Previous48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\Previous48_stretch.wav,previous,Previous48_stretch.wav,S48,previous/Previous48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\previous\Previous48_volume.wav,previous,Previous48_volume.wav,S48,previous/Previous48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 13.wav,screenshot,screenshot 13.wav,S13,screenshot/screenshot 13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 13_noise.wav,screenshot,screenshot 13_noise.wav,S13,screenshot/screenshot 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 13_pitch.wav,screenshot,screenshot 13_pitch.wav,S13,screenshot/screenshot 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 13_shift.wav,screenshot,screenshot 13_shift.wav,S13,screenshot/screenshot 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 13_stretch.wav,screenshot,screenshot 13_stretch.wav,S13,screenshot/screenshot 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 13_volume.wav,screenshot,screenshot 13_volume.wav,S13,screenshot/screenshot 13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 14.wav,screenshot,screenshot 14.wav,S14,screenshot/screenshot 14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 14_noise.wav,screenshot,screenshot 14_noise.wav,S14,screenshot/screenshot 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 14_pitch.wav,screenshot,screenshot 14_pitch.wav,S14,screenshot/screenshot 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 14_shift.wav,screenshot,screenshot 14_shift.wav,S14,screenshot/screenshot 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 14_stretch.wav,screenshot,screenshot 14_stretch.wav,S14,screenshot/screenshot 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 14_volume.wav,screenshot,screenshot 14_volume.wav,S14,screenshot/screenshot 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 18.wav,screenshot,screenshot 18.wav,S18,screenshot/screenshot 18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 18_noise.wav,screenshot,screenshot 18_noise.wav,S18,screenshot/screenshot 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 18_pitch.wav,screenshot,screenshot 18_pitch.wav,S18,screenshot/screenshot 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 18_shift.wav,screenshot,screenshot 18_shift.wav,S18,screenshot/screenshot 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 18_stretch.wav,screenshot,screenshot 18_stretch.wav,S18,screenshot/screenshot 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 18_volume.wav,screenshot,screenshot 18_volume.wav,S18,screenshot/screenshot 18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 20.wav,screenshot,screenshot 20.wav,S20,screenshot/screenshot 20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 20_noise.wav,screenshot,screenshot 20_noise.wav,S20,screenshot/screenshot 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 20_pitch.wav,screenshot,screenshot 20_pitch.wav,S20,screenshot/screenshot 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 20_shift.wav,screenshot,screenshot 20_shift.wav,S20,screenshot/screenshot 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 20_stretch.wav,screenshot,screenshot 20_stretch.wav,S20,screenshot/screenshot 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 20_volume.wav,screenshot,screenshot 20_volume.wav,S20,screenshot/screenshot 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 33.wav,screenshot,screenshot 33.wav,S33,screenshot/screenshot 33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 33_noise.wav,screenshot,screenshot 33_noise.wav,S33,screenshot/screenshot 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 33_pitch.wav,screenshot,screenshot 33_pitch.wav,S33,screenshot/screenshot 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 33_shift.wav,screenshot,screenshot 33_shift.wav,S33,screenshot/screenshot 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 33_stretch.wav,screenshot,screenshot 33_stretch.wav,S33,screenshot/screenshot 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 33_volume.wav,screenshot,screenshot 33_volume.wav,S33,screenshot/screenshot 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 4.wav,screenshot,screenshot 4.wav,S04,screenshot/screenshot 4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 42.wav,screenshot,screenshot 42.wav,S42,screenshot/screenshot 42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 42_noise.wav,screenshot,screenshot 42_noise.wav,S42,screenshot/screenshot 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 42_pitch.wav,screenshot,screenshot 42_pitch.wav,S42,screenshot/screenshot 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 42_shift.wav,screenshot,screenshot 42_shift.wav,S42,screenshot/screenshot 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 42_stretch.wav,screenshot,screenshot 42_stretch.wav,S42,screenshot/screenshot 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 42_volume.wav,screenshot,screenshot 42_volume.wav,S42,screenshot/screenshot 42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 44.wav,screenshot,screenshot 44.wav,S44,screenshot/screenshot 44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 44_noise.wav,screenshot,screenshot 44_noise.wav,S44,screenshot/screenshot 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 44_pitch.wav,screenshot,screenshot 44_pitch.wav,S44,screenshot/screenshot 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 44_shift.wav,screenshot,screenshot 44_shift.wav,S44,screenshot/screenshot 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 44_stretch.wav,screenshot,screenshot 44_stretch.wav,S44,screenshot/screenshot 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 44_volume.wav,screenshot,screenshot 44_volume.wav,S44,screenshot/screenshot 44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 4_noise.wav,screenshot,screenshot 4_noise.wav,S04,screenshot/screenshot 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 4_pitch.wav,screenshot,screenshot 4_pitch.wav,S04,screenshot/screenshot 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 4_shift.wav,screenshot,screenshot 4_shift.wav,S04,screenshot/screenshot 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 4_stretch.wav,screenshot,screenshot 4_stretch.wav,S04,screenshot/screenshot 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 4_volume.wav,screenshot,screenshot 4_volume.wav,S04,screenshot/screenshot 4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 52.wav,screenshot,screenshot 52.wav,S52,screenshot/screenshot 52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 52_noise.wav,screenshot,screenshot 52_noise.wav,S52,screenshot/screenshot 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 52_pitch.wav,screenshot,screenshot 52_pitch.wav,S52,screenshot/screenshot 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 52_shift.wav,screenshot,screenshot 52_shift.wav,S52,screenshot/screenshot 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 52_stretch.wav,screenshot,screenshot 52_stretch.wav,S52,screenshot/screenshot 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 52_volume.wav,screenshot,screenshot 52_volume.wav,S52,screenshot/screenshot 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 6.wav,screenshot,screenshot 6.wav,S06,screenshot/screenshot 6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 6_noise.wav,screenshot,screenshot 6_noise.wav,S06,screenshot/screenshot 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 6_pitch.wav,screenshot,screenshot 6_pitch.wav,S06,screenshot/screenshot 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 6_shift.wav,screenshot,screenshot 6_shift.wav,S06,screenshot/screenshot 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 6_stretch.wav,screenshot,screenshot 6_stretch.wav,S06,screenshot/screenshot 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\screenshot 6_volume.wav,screenshot,screenshot 6_volume.wav,S06,screenshot/screenshot 6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\Screenshot48.wav,screenshot,Screenshot48.wav,S48,screenshot/Screenshot48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\Screenshot48_noise.wav,screenshot,Screenshot48_noise.wav,S48,screenshot/Screenshot48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\Screenshot48_pitch.wav,screenshot,Screenshot48_pitch.wav,S48,screenshot/Screenshot48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\Screenshot48_shift.wav,screenshot,Screenshot48_shift.wav,S48,screenshot/Screenshot48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\Screenshot48_stretch.wav,screenshot,Screenshot48_stretch.wav,S48,screenshot/Screenshot48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\screenshot\Screenshot48_volume.wav,screenshot,Screenshot48_volume.wav,S48,screenshot/Screenshot48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep 33.wav,sleep,sleep 33.wav,S33,sleep/sleep 33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep 33_noise.wav,sleep,sleep 33_noise.wav,S33,sleep/sleep 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep 33_pitch.wav,sleep,sleep 33_pitch.wav,S33,sleep/sleep 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep 33_shift.wav,sleep,sleep 33_shift.wav,S33,sleep/sleep 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep 33_stretch.wav,sleep,sleep 33_stretch.wav,S33,sleep/sleep 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep 33_volume.wav,sleep,sleep 33_volume.wav,S33,sleep/sleep 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep13.wav,sleep,sleep13.wav,S13,sleep/sleep13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep13_noise.wav,sleep,sleep13_noise.wav,S13,sleep/sleep13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep13_pitch.wav,sleep,sleep13_pitch.wav,S13,sleep/sleep13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep13_shift.wav,sleep,sleep13_shift.wav,S13,sleep/sleep13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep13_stretch.wav,sleep,sleep13_stretch.wav,S13,sleep/sleep13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep13_volume.wav,sleep,sleep13_volume.wav,S13,sleep/sleep13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep14.wav,sleep,sleep14.wav,S14,sleep/sleep14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep14_noise.wav,sleep,sleep14_noise.wav,S14,sleep/sleep14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep14_pitch.wav,sleep,sleep14_pitch.wav,S14,sleep/sleep14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep14_shift.wav,sleep,sleep14_shift.wav,S14,sleep/sleep14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep14_stretch.wav,sleep,sleep14_stretch.wav,S14,sleep/sleep14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep14_volume.wav,sleep,sleep14_volume.wav,S14,sleep/sleep14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep18.wav,sleep,sleep18.wav,S18,sleep/sleep18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep18_noise.wav,sleep,sleep18_noise.wav,S18,sleep/sleep18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep18_pitch.wav,sleep,sleep18_pitch.wav,S18,sleep/sleep18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep18_shift.wav,sleep,sleep18_shift.wav,S18,sleep/sleep18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep18_stretch.wav,sleep,sleep18_stretch.wav,S18,sleep/sleep18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep18_volume.wav,sleep,sleep18_volume.wav,S18,sleep/sleep18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep20.wav,sleep,sleep20.wav,S20,sleep/sleep20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep20_noise.wav,sleep,sleep20_noise.wav,S20,sleep/sleep20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep20_pitch.wav,sleep,sleep20_pitch.wav,S20,sleep/sleep20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep20_shift.wav,sleep,sleep20_shift.wav,S20,sleep/sleep20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep20_stretch.wav,sleep,sleep20_stretch.wav,S20,sleep/sleep20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep20_volume.wav,sleep,sleep20_volume.wav,S20,sleep/sleep20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep4.wav,sleep,sleep4.wav,S04,sleep/sleep4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep42.wav,sleep,sleep42.wav,S42,sleep/sleep42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep42_noise.wav,sleep,sleep42_noise.wav,S42,sleep/sleep42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep42_pitch.wav,sleep,sleep42_pitch.wav,S42,sleep/sleep42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep42_shift.wav,sleep,sleep42_shift.wav,S42,sleep/sleep42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep42_stretch.wav,sleep,sleep42_stretch.wav,S42,sleep/sleep42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep42_volume.wav,sleep,sleep42_volume.wav,S42,sleep/sleep42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep44.wav,sleep,sleep44.wav,S44,sleep/sleep44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep44_noise.wav,sleep,sleep44_noise.wav,S44,sleep/sleep44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep44_pitch.wav,sleep,sleep44_pitch.wav,S44,sleep/sleep44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep44_shift.wav,sleep,sleep44_shift.wav,S44,sleep/sleep44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep44_stretch.wav,sleep,sleep44_stretch.wav,S44,sleep/sleep44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep44_volume.wav,sleep,sleep44_volume.wav,S44,sleep/sleep44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\Sleep48.wav,sleep,Sleep48.wav,S48,sleep/Sleep48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\Sleep48_noise.wav,sleep,Sleep48_noise.wav,S48,sleep/Sleep48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\Sleep48_pitch.wav,sleep,Sleep48_pitch.wav,S48,sleep/Sleep48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\Sleep48_shift.wav,sleep,Sleep48_shift.wav,S48,sleep/Sleep48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\Sleep48_stretch.wav,sleep,Sleep48_stretch.wav,S48,sleep/Sleep48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\Sleep48_volume.wav,sleep,Sleep48_volume.wav,S48,sleep/Sleep48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep4_noise.wav,sleep,sleep4_noise.wav,S04,sleep/sleep4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep4_pitch.wav,sleep,sleep4_pitch.wav,S04,sleep/sleep4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep4_shift.wav,sleep,sleep4_shift.wav,S04,sleep/sleep4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep4_stretch.wav,sleep,sleep4_stretch.wav,S04,sleep/sleep4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep4_volume.wav,sleep,sleep4_volume.wav,S04,sleep/sleep4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep52.wav,sleep,sleep52.wav,S52,sleep/sleep52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep52_noise.wav,sleep,sleep52_noise.wav,S52,sleep/sleep52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep52_pitch.wav,sleep,sleep52_pitch.wav,S52,sleep/sleep52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep52_shift.wav,sleep,sleep52_shift.wav,S52,sleep/sleep52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep52_stretch.wav,sleep,sleep52_stretch.wav,S52,sleep/sleep52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep52_volume.wav,sleep,sleep52_volume.wav,S52,sleep/sleep52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep6.wav,sleep,sleep6.wav,S06,sleep/sleep6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep6_noise.wav,sleep,sleep6_noise.wav,S06,sleep/sleep6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep6_pitch.wav,sleep,sleep6_pitch.wav,S06,sleep/sleep6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep6_shift.wav,sleep,sleep6_shift.wav,S06,sleep/sleep6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep6_stretch.wav,sleep,sleep6_stretch.wav,S06,sleep/sleep6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\sleep\sleep6_volume.wav,sleep,sleep6_volume.wav,S06,sleep/sleep6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 14.wav,unmute,unmute 14.wav,S14,unmute/unmute 14.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 14_noise.wav,unmute,unmute 14_noise.wav,S14,unmute/unmute 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 14_pitch.wav,unmute,unmute 14_pitch.wav,S14,unmute/unmute 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 14_shift.wav,unmute,unmute 14_shift.wav,S14,unmute/unmute 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 14_stretch.wav,unmute,unmute 14_stretch.wav,S14,unmute/unmute 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 14_volume.wav,unmute,unmute 14_volume.wav,S14,unmute/unmute 14.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 20.wav,unmute,unmute 20.wav,S20,unmute/unmute 20.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 20_noise.wav,unmute,unmute 20_noise.wav,S20,unmute/unmute 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 20_pitch.wav,unmute,unmute 20_pitch.wav,S20,unmute/unmute 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 20_shift.wav,unmute,unmute 20_shift.wav,S20,unmute/unmute 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 20_stretch.wav,unmute,unmute 20_stretch.wav,S20,unmute/unmute 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 20_volume.wav,unmute,unmute 20_volume.wav,S20,unmute/unmute 20.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 33.wav,unmute,unmute 33.wav,S33,unmute/unmute 33.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 33_noise.wav,unmute,unmute 33_noise.wav,S33,unmute/unmute 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 33_pitch.wav,unmute,unmute 33_pitch.wav,S33,unmute/unmute 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 33_shift.wav,unmute,unmute 33_shift.wav,S33,unmute/unmute 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 33_stretch.wav,unmute,unmute 33_stretch.wav,S33,unmute/unmute 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 33_volume.wav,unmute,unmute 33_volume.wav,S33,unmute/unmute 33.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 52.wav,unmute,unmute 52.wav,S52,unmute/unmute 52.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 52_noise.wav,unmute,unmute 52_noise.wav,S52,unmute/unmute 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 52_pitch.wav,unmute,unmute 52_pitch.wav,S52,unmute/unmute 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 52_shift.wav,unmute,unmute 52_shift.wav,S52,unmute/unmute 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 52_stretch.wav,unmute,unmute 52_stretch.wav,S52,unmute/unmute 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute 52_volume.wav,unmute,unmute 52_volume.wav,S52,unmute/unmute 52.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute13.wav,unmute,unmute13.wav,S13,unmute/unmute13.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute13_noise.wav,unmute,unmute13_noise.wav,S13,unmute/unmute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute13_pitch.wav,unmute,unmute13_pitch.wav,S13,unmute/unmute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute13_shift.wav,unmute,unmute13_shift.wav,S13,unmute/unmute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute13_stretch.wav,unmute,unmute13_stretch.wav,S13,unmute/unmute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute13_volume.wav,unmute,unmute13_volume.wav,S13,unmute/unmute13.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute18.wav,unmute,unmute18.wav,S18,unmute/unmute18.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute18_noise.wav,unmute,unmute18_noise.wav,S18,unmute/unmute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute18_pitch.wav,unmute,unmute18_pitch.wav,S18,unmute/unmute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute18_shift.wav,unmute,unmute18_shift.wav,S18,unmute/unmute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute18_stretch.wav,unmute,unmute18_stretch.wav,S18,unmute/unmute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute18_volume.wav,unmute,unmute18_volume.wav,S18,unmute/unmute18.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute4.wav,unmute,unmute4.wav,S04,unmute/unmute4.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute42.wav,unmute,unmute42.wav,S42,unmute/unmute42.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute42_noise.wav,unmute,unmute42_noise.wav,S42,unmute/unmute42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute42_pitch.wav,unmute,unmute42_pitch.wav,S42,unmute/unmute42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute42_shift.wav,unmute,unmute42_shift.wav,S42,unmute/unmute42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute42_stretch.wav,unmute,unmute42_stretch.wav,S42,unmute/unmute42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute42_volume.wav,unmute,unmute42_volume.wav,S42,unmute/unmute42.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute44.wav,unmute,unmute44.wav,S44,unmute/unmute44.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute44_noise.wav,unmute,unmute44_noise.wav,S44,unmute/unmute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute44_pitch.wav,unmute,unmute44_pitch.wav,S44,unmute/unmute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute44_shift.wav,unmute,unmute44_shift.wav,S44,unmute/unmute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute44_stretch.wav,unmute,unmute44_stretch.wav,S44,unmute/unmute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute44_volume.wav,unmute,unmute44_volume.wav,S44,unmute/unmute44.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\Unmute48.wav,unmute,Unmute48.wav,S48,unmute/Unmute48.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\Unmute48_noise.wav,unmute,Unmute48_noise.wav,S48,unmute/Unmute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\Unmute48_pitch.wav,unmute,Unmute48_pitch.wav,S48,unmute/Unmute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\Unmute48_shift.wav,unmute,Unmute48_shift.wav,S48,unmute/Unmute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\Unmute48_stretch.wav,unmute,Unmute48_stretch.wav,S48,unmute/Unmute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\Unmute48_volume.wav,unmute,Unmute48_volume.wav,S48,unmute/Unmute48.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute4_noise.wav,unmute,unmute4_noise.wav,S04,unmute/unmute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute4_pitch.wav,unmute,unmute4_pitch.wav,S04,unmute/unmute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute4_shift.wav,unmute,unmute4_shift.wav,S04,unmute/unmute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute4_stretch.wav,unmute,unmute4_stretch.wav,S04,unmute/unmute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute4_volume.wav,unmute,unmute4_volume.wav,S04,unmute/unmute4.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute6.wav,unmute,unmute6.wav,S06,unmute/unmute6.wav,False
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute6_noise.wav,unmute,unmute6_noise.wav,S06,unmute/unmute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute6_pitch.wav,unmute,unmute6_pitch.wav,S06,unmute/unmute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute6_shift.wav,unmute,unmute6_shift.wav,S06,unmute/unmute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute6_stretch.wav,unmute,unmute6_stretch.wav,S06,unmute/unmute6.wav,True
+C:\Users\ADMIN\Desktop\Sukriti\VIT\SL\AnuAssistant\dataset\unmute\unmute6_volume.wav,unmute,unmute6_volume.wav,S06,unmute/unmute6.wav,True

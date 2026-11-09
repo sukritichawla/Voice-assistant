@@ -1,0 +1,2 @@
+Accuracy,Macro precision,Macro recall,Macro F1,Test files,Final training epochs
+0.2636165577342048,0.5243708361069352,0.26212121212121214,0.21323965018799937,918,19
